@@ -1,0 +1,11 @@
+Rafael;27
+Pedro;42
+Ana;19
+Beatriz;16
+Carlos;39
+Bruno;29
+Maria;65
+Bruna;17
+Bianca;32
+Tiago;26
+Regina;42
