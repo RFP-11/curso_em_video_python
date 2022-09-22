@@ -1,2 +1,2 @@
-# curso_em_video_python
+# Curso em video - python
  Anotações e exercícios feitos durante o curso de python do curso em vídeo.
